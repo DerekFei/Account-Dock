@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">账户管理坞</string>
+
+    <string name="hello_world">你好，世界</string>
+    <string name="action_settings">设置</string>
+    <string name="lock">禁用删除</string>
+    <string name="unlock">启用删除</string>
+    <string name="title_activity_add_acc">创建新账户</string>
+    <string name="menu_Done">完成</string>
+    <string name="title_activity_acc_detail">账户详情</string>
+
+    <drawable name="clr_normal">#ffe70300</drawable>
+    <drawable name="clr_pressed">#ffa40a00</drawable>
+
+    <drawable name="clrb_normal">#ff2a2a2a</drawable>
+    <drawable name="clrb_pressed">#ff979797</drawable>
+    <string name="title_activity_transfer">转账</string>
+    <string name="mainAddAcc">+添加新账户</string>
+    <string name="mainTransText">⇋转账</string>
+    <string name="mainDeleteTitleText">删除账号</string>
+    <string name="mainDeleteContent">删除此账号？</string>
+    <string name="DoubleClickExit">双击退出应用</string>
+
+    <string name="detailDepButtonText">存入 [+]</string>
+    <string name="detailWDButtonText">支出 [-]</string>
+    <string name="detailTransTitleText">账户流水:</string>
+    <string name="detailDateTitleText">上次活动日期:</string>
+    <string name="detailBalanceTitleText">余额:</string>
+    <string name="detailPeriodButtonText">统计周期设定</string>
+    <string name="detailStatDeposit">总存入于 </string>
+    <string name="detailStatWithdrawal">总支出于 </string>
+    <string name="detailStatUnit">天内:</string>
+    <string name="Amount_Must_Larger_0">  金额: 必须大于0</string>
+    <string name="Notes_Cannot_Contain">  备注: 不能包含 &quot;#,*&quot;</string>
+    <string name="Format_Error">格式错误! 失败!</string>
+    <string name="Amount_Must_Larger_0_Smaller">  金额: 必须 &gt;0 且 &lt;= </string>
+    <string name="setStatPeriod">统计周期设定</string>
+    <string name="enterStatPeriod"> 请输入统计周期（单位：天）</string>
+
+
+    <string name="addAccNameText">账户名：</string>
+    <string name="addAccNameIntroText">最长15个字符</string>
+    <string name="addBalanceText">初始余额：</string>
+    <string name="addBalanceIntroText">最长18个数字</string>
+    <string name="addCurrencyText">货币种类：</string>
+    <string name="addColorTagText">颜色标签：</string>
+    <string name="addWarningText">以上信息在账户创建后无法修改</string>
+    <string name="addDoneButtonText">完成</string>
+    <string name="addClearButtonText">清除</string>
+    <string name="addCancleButtonText">取消</string>
+    <string name="Red">Red</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Black">Black</string>
+    <string name="Purple">Purple</string>
+    <string name="Pink">Pink</string>
+    <string name="Orange">Orange</string>
+    <string name="CurrencyChoice">货币种类为: </string>
+    <string name="TagChoice">标签颜色: </string>
+    <string name="NameAlreadyExist">账户名已存在，请重新输入 </string>
+    <string name="EnterNameAndInitialBalance">请输入账户名和初始余额</string>
+
+
+    <string name="transferTipText">您无法在两个拥有不同货币种类的帐号间操作转账，如需类似操作请单独进行存取并注意利率</string>
+    <string name="transferFromText">从以下账号：</string>
+    <string name="transferToText">转账至以下账号：</string>
+    <string name="transferAmountText">金额：</string>
+    <string name="transferNotesText">备注：(同时作用于两个账号)</string>
+    <string name="transferNotesTipText">备注内容不能包含 \"*\" 或 \"#\".</string>
+    <string name="transferDoneButtonText">完成</string>
+    <string name="transferClearButtonText">清除</string>
+    <string name="transferCancleButtonText">取消</string>
+    <string name="Balance">余额： </string>
+    <string name="CannotBetweenSameAcc">转出账号与转入账号必须不同！</string>
+    <string name="NoEnoughFund">余额不足！</string>
+    <string name="CannotBetweenCurrency">不同货币种类间无法转账！</string>
+    <string name="AmountCannotBlank">金额不能为空！</string>
+    <string name="NotesCannotContain">备注不能包含 "*" 或 "#"!</string>
+
+    <string name="Yes">是</string>
+    <string name="No">否</string>
+    <string name="Cancel">取消</string>
+    <string name="Exit">退出</string>
+    <string name="Done">完成</string>
+    <string name="Deposit">存入</string>
+    <string name="Withdraw">支出</string>
+    <string name="DiscardChanges">放弃更改?</string>
+    <string name="Success">成功 :D</string>
+    <string name="rowBalanceText">余额:</string>
+    <string name="rowDateText">上次活动日期:</string>
+    <string name="aboutText">关于</string>
+    <string name="aboutTextContent">版本:1.0\n账户管理坞\nCopyright © Cheng Fei (Derek).\nAll Rights Reserved.</string>
+
+    <string name="addAcc">创建新账户</string>
+    <string name="accDetail">账户详情</string>
+    <string name="transfer">转账</string>
+
+</resources>

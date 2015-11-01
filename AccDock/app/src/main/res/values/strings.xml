@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Account Dock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lock">+Disable Deletion</string>
+    <string name="unlock">+Enable Deletion</string>
+    <string name="title_activity_add_acc">addAcc</string>
+    <string name="menu_Done">Done</string>
+    <string name="title_activity_acc_detail">AccDetail</string>
+
+    <drawable name="clr_normal">#ffe70300</drawable>
+    <drawable name="clr_pressed">#ffa40a00</drawable>
+
+    <drawable name="clrb_normal">#ff2a2a2a</drawable>
+    <drawable name="clrb_pressed">#ff979797</drawable>
+    <string name="title_activity_transfer">Transfer</string>
+    <string name="mainAddAcc">+Account</string>
+    <string name="mainTransText">⇋Transfer</string>
+    <string name="mainDeleteTitleText">Delete Account</string>
+    <string name="mainDeleteContent">Delete this Account?</string>
+    <string name="DoubleClickExit">Double Click to Exit</string>
+
+    <string name="detailDepButtonText">Deposit [+]</string>
+    <string name="detailWDButtonText">Withdraw [-]</string>
+    <string name="detailTransTitleText">Transactions:</string>
+    <string name="detailDateTitleText">Date Modified:</string>
+    <string name="detailBalanceTitleText">Balance:</string>
+    <string name="detailPeriodButtonText">Stat. Period</string>
+    <string name="detailStatDeposit">Tot DEP in </string>
+    <string name="detailStatWithdrawal">Tot W/D in </string>
+    <string name="detailStatUnit">d:</string>
+    <string name="Amount_Must_Larger_0">  Amount: must be larger than 0</string>
+    <string name="Notes_Cannot_Contain">  Notes: cannot contain &quot;#,*&quot;</string>
+    <string name="Format_Error">Format Error! Failed!</string>
+    <string name="Amount_Must_Larger_0_Smaller">  Amount: must be &gt;0 or &lt;= </string>
+    <string name="setStatPeriod">Set Statistic Period</string>
+    <string name="enterStatPeriod"> Please Enter the Statistic Period: (Unit: Day)</string>
+
+
+    <string name="addAccNameText">Account Name:</string>
+    <string name="addAccNameIntroText">MaxLength: 15 characters</string>
+    <string name="addBalanceText">Initial Balance:</string>
+    <string name="addBalanceIntroText">MaxLength: 18 digits</string>
+    <string name="addCurrencyText">Currency:</string>
+    <string name="addColorTagText">Color Tag:</string>
+    <string name="addWarningText">The info above WON\'T be editable later.</string>
+    <string name="addDoneButtonText">Done</string>
+    <string name="addClearButtonText">Clear</string>
+    <string name="addCancleButtonText">Cancel</string>
+    <string name="Red">Red</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Black">Black</string>
+    <string name="Purple">Purple</string>
+    <string name="Pink">Pink</string>
+    <string name="Orange">Orange</string>
+    <string name="CurrencyChoice">Currency Choice: </string>
+    <string name="TagChoice">Tag Color: </string>
+    <string name="NameAlreadyExist">Your account Name already exists, please re-entry </string>
+    <string name="EnterNameAndInitialBalance">Please Enter a name and initial balance!</string>
+
+
+    <string name="transferTipText">You CANNOT transfer money between accounts that have different currency types. Please mannully do deposit and withdraw instead.</string>
+    <string name="transferFromText">From:</string>
+    <string name="transferToText">To:</string>
+    <string name="transferAmountText">Amount:</string>
+    <string name="transferNotesText">Notes: (For records of both 2 accounts)</string>
+    <string name="transferNotesTipText">Notes cannot contain \"*\" and \"#\".</string>
+    <string name="transferDoneButtonText">Done</string>
+    <string name="transferClearButtonText">Clear</string>
+    <string name="transferCancleButtonText">Cancle</string>
+    <string name="Balance">Balance: </string>
+    <string name="CannotBetweenSameAcc">Cannot do transfer between 2 same accounts!</string>
+    <string name="NoEnoughFund">Funds not enough!</string>
+    <string name="CannotBetweenCurrency">Cannot transfer between different currency types!</string>
+    <string name="AmountCannotBlank">Amount cannot be blank!</string>
+    <string name="NotesCannotContain">Notes cannot contain "*" or "#"!</string>
+
+    <string name="Yes">Yes</string>
+    <string name="No">N</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Exit">Exit</string>
+    <string name="Done">Done</string>
+    <string name="Deposit">Deposit</string>
+    <string name="Withdraw">Withdraw</string>
+    <string name="DiscardChanges">Discard Changes?</string>
+    <string name="Success">Success :D</string>
+    <string name="rowBalanceText">Balance:</string>
+    <string name="rowDateText">Date Modified:</string>
+    <string name="aboutText">About</string>
+    <string name="aboutTextContent">Version:1.0\nAccount Dock\nCopyright © Cheng Fei (Derek).\nAll Rights Reserved.</string>
+
+    <string name="addAcc">Create a New Account</string>
+    <string name="accDetail">Account Detail</string>
+    <string name="transfer">Transfer</string>
+
+
+
+</resources>
